@@ -1,5 +1,47 @@
 [
 {
+        "name": "Rise",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/inspired/RISE.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/inspired/RISE.webp",
+        "collections": "INSPIRED"
+}, {
+        "name": "Rise Vibrant",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/inspired/RISE%20VIBRANT.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/inspired/RISE%20VIBRANT.webp",
+        "collections": "INSPIRED"
+}, {
+        "name": "T-Rex Silhouette",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/minimal/TREX%20SILHOUETTE.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/minimal/TREX%20SILHOUETTE.webp",
+        "collections": "MINIMAL"
+}, {
+        "name": "T-Rex Red",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/minimal/TREX%20RED.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/minimal/TREX%20RED.webp",
+        "collections": "MINIMAL"
+}, {
+        "name": "Zap",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/minimal/ZAP.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/minimal/ZAP.webp",
+        "collections": "MINIMAL"
+}, {
+        "name": "Carbon Fiber",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/patterns/CARBON%20FIBER.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/patterns/CARBON%20FIBER.webp",
+        "collections": "PATTERNS"
+}, {
+        "name": "Tiled Pattern",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/patterns/TILED%20PATTERN.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/patterns/TILED%20PATTERN.webp",
+        "collections": "PATTERNS"
+}, {
         "name": "Aquarius AMOLED",
         "author": "@imundefyned",
         "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/AQUARIUS-amoled.png",
