@@ -1,5 +1,71 @@
 [
-{
+   {
+        "name": "Lost Light",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/LOST%20LIGHT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/LOST%20LIGHT.webp",
+        "collections": "MINIMAL"
+}, {
+        "name": "Lost AMOLED",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/LOST%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/LOST%20AMOLED.webp",
+        "collections": "MINIMAL"
+}, {
+        "name": "Gradient Scales",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/GRADIENT%20SCALES.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/gradients/GRADIENT%20SCALES.webp",
+        "collections": "GRADIENTS"
+}, {
+        "name": "WASD Blu",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/WASD%20BLU.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/WASD%20BLU.webp",
+        "collections": "INSPIRED"
+}, {
+        "name": "WASD Red",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/WASD%20RED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/WASD%20RED.webp",
+        "collections": "INSPIRED"
+}, {
+        "name": "MNML Blu",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/MNML%20BLU.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/MNML%20BLU.webp",
+        "collections": "INSPIRED"
+}, {
+        "name": "MNML Red",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/MNML%20RED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/MNML%20RED.webp",
+        "collections": "INSPIRED"
+}, {
+        "name": "Trxy",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/TRXY.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/TRXY.webp",
+        "collections": "PATTERNS"
+}, {
+        "name": "Blocks",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/BLOCKS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/BLOCKS.webp",
+        "collections": "MINIMAL"
+}, {
+        "name": "Sym Night",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/SYM%20NIGHT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/SYM%20NIGHT.webp",
+        "collections": "PATTERNS"
+}, {
+        "name": "Sym AMOLED",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/SYM%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/SYM%20AMOLED.webp",
+        "collections": "PATTERNS"
+}, {
         "name": "Gradient Slices",
         "author": "@imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/GRADIENT%20SLICES.png",
