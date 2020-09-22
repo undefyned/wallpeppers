@@ -1,5 +1,53 @@
 [
    {
+        "name": "UIXD",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/UIXD.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/UIXD.webp",
+        "collections": "EXCLUSIVE"
+}, {
+        "name": "Wilderness",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/WILDERNESS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/WILDERNESS.webp",
+        "collections": "EXCLUSIVE"
+}, {
+        "name": "Stax X",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/STAX%20X.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/STAX%20X.webp",
+        "collections": "EXCLUSIVE"
+}, {
+        "name": "Stax Y",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/STAX%20Y.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/STAX%20Y.webp",
+        "collections": "EXCLUSIVE"
+}, {
+        "name": "Shapd",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/SHAPD.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/SHAPD.webp",
+        "collections": "MINIMAL"
+}, {
+        "name": "Shapd AMOLED",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/SHAPD%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/SHAPD%20AMOLED.webp",
+        "collections": "MINIMAL"
+}, {
+        "name": "Spiral",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/SPIRAL.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/SPIRAL.webp",
+        "collections": "PATTERNS"
+}, {
+        "name": "Float3",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/FLOAT3.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/FLOAT3.webp",
+        "collections": "MINIMAL"
+}, {
         "name": "Lost Light",
         "author": "@imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/LOST%20LIGHT.png",
