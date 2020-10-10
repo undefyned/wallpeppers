@@ -1,5 +1,17 @@
 [
-   {
+{
+        "name": "Sprout",
+        "author": "imundefyned",
+        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/SPROUT.png",
+        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/SPROUT.webp",
+        "collections": "MINIMAL"
+}, {
+        "name": "Texts",
+        "author": "imundefyned",
+        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/TEXTS.png",
+        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/TEXTS.webp",
+        "collections": "PATTERNS"
+}, {
         "name": "UIXD",
         "author": "@imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/UIXD.png",
