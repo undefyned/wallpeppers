@@ -2,26 +2,26 @@
 {
         "name": "Spook",
         "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/SPOOK.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/SPOOK.webp",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/SPOOK.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/SPOOK.webp",
         "collections": "EXCLUSIVE"
 }, {
         "name": "Daunt",
         "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/DAUNT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/DAUNT.webp",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/DAUNT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/DAUNT.webp",
         "collections": "EXCLUSIVE"
 }, {
         "name": "Sprout",
         "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/SPROUT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/SPROUT.webp",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/SPROUT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/SPROUT.webp",
         "collections": "MINIMAL"
 }, {
         "name": "Texts",
         "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/TEXTS.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/TEXTS.webp",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/TEXTS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/TEXTS.webp",
         "collections": "PATTERNS"
 }, {
         "name": "UIXD",
