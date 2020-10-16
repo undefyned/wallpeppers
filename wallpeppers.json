@@ -1,5 +1,23 @@
 [
 {
+        "name": "Flux",
+        "author": "imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/FLUX.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/FLUX.webp",
+        "collections": "PATTERNS"
+}, {
+        "name": "Velvet",
+        "author": "imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/VELVET.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/VELVET.webp",
+        "collections": "PATTERNS"
+}, {
+        "name": "Fibre",
+        "author": "imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/FIBRE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/FIBRE.webp",
+        "collections": "PATTERNS"
+}, {
         "name": "Spook",
         "author": "imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/SPOOK.png",
