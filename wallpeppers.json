@@ -1,43 +1,91 @@
 [
 {
+        "name": "3N Purple",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/3N%20PURPLE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/3N%20PURPLE.webp",
+        "collections": "PATTERNS"
+}, {
+        "name": "3N Red",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/3N%20RED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/3N%20RED.webp",
+        "collections": "PATTERNS"
+}, {
+        "name": "Fries",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/textual/FRIES.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/textual/FRIES.webp",
+        "collections": "MINIMAL"
+}, {
+        "name": "Fries AMOLED",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/textual/FRIES%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/textual/FRIES%20AMOLED.webp",
+        "collections": "MINIMAL"
+}, {
+        "name": "Pills",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/PILLS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/PILLS.webp",
+        "collections": "PATTERNS"
+}, {
+        "name": "Pills Dark",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/PILLS%20DARK.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/PILLS%20DARK.webp",
+        "collections": "PATTERNS"
+}, {
+        "name": "Spiral Neon",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/SPIRAL%20NEON.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/SPIRAL%20NEON.webp",
+        "collections": "PATTERNS"
+}, {
+        "name": "Spiral AMOLED",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/SPIRAL%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/SPIRAL%20AMOLED.webp",
+        "collections": "PATTERNS"
+}, {
         "name": "Flux",
-        "author": "imundefyned",
+        "author": "@imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/FLUX.png",
         "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/FLUX.webp",
         "collections": "PATTERNS"
 }, {
         "name": "Velvet",
-        "author": "imundefyned",
+        "author": "@imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/VELVET.png",
         "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/VELVET.webp",
         "collections": "PATTERNS"
 }, {
         "name": "Fibre",
-        "author": "imundefyned",
+        "author": "@imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/FIBRE.png",
         "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/FIBRE.webp",
         "collections": "PATTERNS"
 }, {
         "name": "Spook",
-        "author": "imundefyned",
+        "author": "@imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/SPOOK.png",
         "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/SPOOK.webp",
         "collections": "EXCLUSIVE"
 }, {
         "name": "Daunt",
-        "author": "imundefyned",
+        "author": "@imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/DAUNT.png",
         "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/DAUNT.webp",
         "collections": "EXCLUSIVE"
 }, {
         "name": "Sprout",
-        "author": "imundefyned",
+        "author": "@imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/SPROUT.png",
         "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/SPROUT.webp",
         "collections": "MINIMAL"
 }, {
         "name": "Texts",
-        "author": "imundefyned",
+        "author": "@imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/TEXTS.png",
         "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/TEXTS.webp",
         "collections": "PATTERNS"
