@@ -1,5 +1,41 @@
 [
 {
+        "name": "XS1 AMOLED",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/XS1%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/XS1%20AMOLED.webp",
+        "collections": "EXCLUSIVE"
+}, {
+        "name": "XS2 AMOLED",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/XS2%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/XS2%20AMOLED.webp",
+        "collections": "EXCLUSIVE"
+}, {
+        "name": "XS3 Light",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/XS3%20LIGHT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/XS3%20LIGHT.webp",
+        "collections": "EXCLUSIVE"
+}, {
+        "name": "XS4 Neon",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/XS4%20NEON.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/XS4%20NEON.webp",
+        "collections": "EXCLUSIVE"
+}, {
+        "name": "XYZX",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/textual/XYZX.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/textual/XYZX.webp",
+        "collections": "MINIMAL"
+}, {
+        "name": "Redtangled",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/REDTANGLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/REDTANGLED.webp",
+        "collections": "INSPIRED"
+}, {
         "name": "3N Purple",
         "author": "@imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/3N%20PURPLE.png",
