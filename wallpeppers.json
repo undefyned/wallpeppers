@@ -1,5 +1,35 @@
 [
 {
+        "name": "FLxRW Gloom",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/FLXRW%20GLOOM.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/FLXRW%20GLOOM.webp",
+        "collections": "ALL,EXCLUSIVE"
+}, {
+        "name": "FLxRW Dawn",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/FLXRW%20DAWN.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/FLXRW%20DAWN.webp",
+        "collections": "ALL,EXCLUSIVE"
+}, {
+        "name": "FLxRW Achromatic",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/FLXRW%20ACHROMATIC.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/FLXRW%20ACHROMATIC.webp",
+        "collections": "ALL,EXCLUSIVE"
+}, {
+        "name": "Zig",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/ZIG.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/ZIG.webp",
+        "collections": "ALL,MINIMAL"
+}, {
+        "name": "Zag",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/ZAG.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/ZAG.webp",
+        "collections": "ALL,MINIMAL"
+}, {
         "name": "XS1 AMOLED",
         "author": "@imundefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/XS1%20AMOLED.png",
