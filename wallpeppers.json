@@ -1,5 +1,35 @@
 [
 {
+        "name": "Christmas",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/festive/CHRISTMAS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/festive/CHRISTMAS.webp",
+        "collections": "FESTIVE"
+}, {
+        "name": "Christmas AMOLED",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/festive/CHRISTMAS%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/festive/CHRISTMAS%20AMOLED.webp",
+        "collections": "FESTIVE"
+}, {
+        "name": "Christmas Light",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/festive/CHRISTMAS%20LIGHT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/festive/CHRISTMAS%20LIGHT.webp",
+        "collections": "FESTIVE"
+}, {
+        "name": "Santa",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/festive/SANTA.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/festive/SANTA.webp",
+        "collections": "FESTIVE"
+}, {
+        "name": "Santa 2",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/festive/SANTA%202.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/festive/SANTA%202.webp",
+        "collections": "FESTIVE"
+}, {
         "name": "Blobs Dark",
         "author": "undefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/Blobs%20Dark.png",
