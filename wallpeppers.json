@@ -1,5 +1,23 @@
 [
 {
+        "name": "Falling Stars",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/glitch/fallingstars.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/glitch/fallingstars.webp",
+        "collections": "GLITCH"
+}, {
+        "name": "Flow Light",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/glitch/flow-light.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/glitch/flow-light.webp",
+        "collections": "GLITCH"
+}, {
+        "name": "Flow Dark",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/glitch/flow-dark.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/glitch/flow-dark.webp",
+        "collections": "GLITCH"
+}, {
         "name": "Colors, Yes.",
         "author": "undefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/glitch/colorsyes.png",
@@ -40,6 +58,12 @@
         "author": "undefyned",
         "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/glitch/itsbland.png",
         "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/glitch/itsbland.webp",
+        "collections": "GLITCH"
+}, {
+        "name": "Idk ok",
+        "author": "undefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/glitch/idontreallyknow.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/glitch/idontreallyknow.webp",
         "collections": "GLITCH"
 }, {
         "name": "Loop V",
